@@ -1,0 +1,4 @@
+# Cursor IDE 规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN-KEYWORD,cursor

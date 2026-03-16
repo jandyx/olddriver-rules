@@ -1,0 +1,6 @@
+# Anthropic Claude 规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai

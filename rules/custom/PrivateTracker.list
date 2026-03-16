@@ -1,0 +1,53 @@
+# Private Tracker PT 站规则
+# 从 SNTP Clash 配置提取
+
+# PT 站域名
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,greatposterwall.com
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,lemonhd.org
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,hdzone.me
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,hd4fans.org
+DOMAIN-SUFFIX,ubits.club
+
+# Tracker 服务器
+DOMAIN-SUFFIX,tracker.opentrackr.org
+DOMAIN-SUFFIX,tracker.leechers-paradise.org
+DOMAIN-SUFFIX,tracker.cyberia.is
+DOMAIN-SUFFIX,exodus.desync.com
+DOMAIN-SUFFIX,tracker.torrent.eu.org
+DOMAIN-SUFFIX,tracker.openbittorrent.com
+DOMAIN-SUFFIX,tracker.publicbt.com
+DOMAIN-SUFFIX,tracker.tiny-vps.com
+
+# BT/PT 通用关键字
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent

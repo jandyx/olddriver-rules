@@ -1,0 +1,25 @@
+# HBO Max 规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,maxstatic.com
+DOMAIN-SUFFIX,hbomaxstatic.com
+DOMAIN,play.hbomax.com
+DOMAIN,artist.api.hbo.com
+DOMAIN,comet.api.hbo.com
+DOMAIN,gateway.hbo.com
+DOMAIN,sessions.api.hbo.com
+DOMAIN,oauth.api.hbo.com
+DOMAIN,feature.api.hbo.com
+DOMAIN,anvato.net
+DOMAIN,images.hbo.com

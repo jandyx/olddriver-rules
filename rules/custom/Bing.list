@@ -1,0 +1,20 @@
+# Bing 搜索规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
+DOMAIN-SUFFIX,bluehatnights.com
+DOMAIN-SUFFIX,flip-web.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN,cn.bing.com
+DOMAIN,www.bing.com
+DOMAIN,global.bing.com

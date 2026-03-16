@@ -1,0 +1,5 @@
+# Perplexity AI 规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity

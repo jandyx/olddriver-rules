@@ -1,0 +1,7 @@
+# Xbox 游戏规则
+# 从 SNTP Clash 配置提取
+
+DOMAIN-KEYWORD,xbox
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xbox.com
